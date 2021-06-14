@@ -1,4 +1,4 @@
-# 07_project-01
+# UCSD-CodeBootCamp-steadfast-project
 
 ## Description
 
